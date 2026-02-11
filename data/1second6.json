@@ -1,0 +1,18 @@
+{
+    "id": 133265469,
+    "name": "1 second 6",
+    "author": "Crimxin",
+    "creators": ["Crimxin"],
+    "verifier": "Crim",
+    "verification": "https://youtu.be/CKKSM-3Rkfo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Crim's Dog totally legit",
+            "link": "",
+            "percent": 100,
+            "hz": 640000
+        }
+    ]
+}
